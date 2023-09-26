@@ -1,12 +1,9 @@
-# main links
 main:
-  - title: "Category"
-    url: /categories/
   - title: "Tech"
-    url: /_pages/tech/
+    url: /tech
   - title: "TIL"
-    url: /_pages/til/
-  - title: "Study Checklist"
-    url: /_pages/study-checklist/
+    url: /til
+  - title: "Study CheckList"
+    url: /study-checklist
   - title: "About me"
-    url: /_pages/about-me
+    url: /about-me
